@@ -3,12 +3,13 @@
 - List View.
 - List Tile.
 - Cargar datos de un JSON / Mapa.
+- Divider
 
 ## Lo que me costó más trabajo
 
 - La complicacion mas grande que tuve viene siendo el hecho de ya tener la informacion del JSON como sacarla ya que pensaba que era como un arreglo y ya de ahi agarrar la informacion pero es un json entonces tuve que hacerlo de la manera correcta exchanges[index]["trusted"]7
 
--Trate de hacer la implementacion del drawer pero por falta de tiempo no la entregare, pero hare un update al repo para esto ya que siento que puede ser de gran ayuda al momento de hacer las practicas.
+- Trate de hacer la implementacion del drawer pero por falta de tiempo no la entregare, pero hare un update al repo para esto ya que siento que puede ser de gran ayuda al momento de hacer las practicas.
 
 ## Lo que aprendí
 
