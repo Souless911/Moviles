@@ -41,7 +41,7 @@ class ShazamApiBloc extends Bloc<ShazamApiEvent, ShazamApiState> {
       try {
         var obj = {
           "return": "apple_music,spotify",
-          "api_token": "b6a8f80205afe2b8678e486e3099606a",
+          //insert api key here.
           "audio": base63,
         };
         var res = await post(
