@@ -25,7 +25,7 @@ https://youtube.com/shorts/CUVMzOOYqNM
 
 ## Screenshots de la app
 
-<img src="tarea_5/i1.png" alt="home page" width="250" height="400">
+<img src="/i1.png" alt="home page" width="250" height="400">
 <img src="tarea_5/i2.png" alt="home page" width="250" height="400">
 <img src="tarea_5/i3.png" alt="home page" width="250" height="400">
 
