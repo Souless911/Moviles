@@ -25,9 +25,10 @@ https://youtube.com/shorts/CUVMzOOYqNM
 
 ## Screenshots de la app
 
-![Alt text](/imagenes/i1.png)
-![Alt text](/imagenes/i2.png)
-![Alt text](/imagenes/i3.png)
+<img src="tarea_5/i1.png" alt="home page" width="250" height="400">
+<img src="tarea_5/i2.png" alt="home page" width="250" height="400">
+<img src="tarea_5/i3.png" alt="home page" width="250" height="400">
+
 
 
 ## Criterio de evaluación
